@@ -37,4 +37,4 @@ end
 
 # Define your play method below
 def play(board)
-  
+  loop do "Please enter 1-9"
