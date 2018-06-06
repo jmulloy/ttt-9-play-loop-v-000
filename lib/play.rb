@@ -38,6 +38,7 @@ end
 # Define your play method below
 def play(board)
   counter = 0
-  loop do "Please enter 1-9"
+  loop do
   counter = counter + 1
+  
   
