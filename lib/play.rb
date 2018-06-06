@@ -43,4 +43,5 @@ def play(board)
   puts "Please enter 1-9"
   if counter = 9
   break
-  
+  end
+end
