@@ -41,5 +41,5 @@ def play(board)
   loop do
   counter = counter + 1
   puts "Please enter 1-9"
-  
+  if counter = 9
   
